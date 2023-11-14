@@ -1,7 +1,10 @@
+import '../App.css'
+
 export default function Clicker() {
+    const text = "Click me"
     return (
       <>
-        <button>Click Me</button>
+        <button className="btn" style={{color: 'blue'}}>{text}</button>
       </>
     );
   }
