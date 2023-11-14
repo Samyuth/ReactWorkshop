@@ -1,10 +1,4 @@
-function Clicker() {
-  return (
-    <>
-      <button>Click Me</button>
-    </>
-  );
-}
+import Clicker from "./components/Clicker";
 
 function App() {
   return (
