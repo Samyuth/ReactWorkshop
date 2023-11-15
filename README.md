@@ -57,6 +57,10 @@ Checkout the below to see how you can add props to the application
 git checkout 8a52f86bec8c10e8deb8045cd6601
 ```
 
+### Intermediate JSX
+
+In this module we will add conditional rendering as well as rendering from lists and event handling
+
 ## Final Words
 
 Thank you for reading my tutorial! If you have made it through the all the steps y you're ready to create projects with react! There is so much more to learn but from here the best way to learn is just to use whatever skills you have in an actual project.
